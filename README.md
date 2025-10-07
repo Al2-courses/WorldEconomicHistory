@@ -38,8 +38,7 @@ By the end of this course, students should be able to:
 ## Required and Supplementary Materials
 
 **Required Textbook**  
-- The CORE Econ Team. (2023). *The Economy 2.0: Microeconomics.*  
-  [Open access e-text](https://core-econ.org/the-economy/)
+- [The CORE Econ Team. (2023). *The Economy 2.0: Microeconomics.*](https://core-econ.org/the-economy/)
 
 **Main Data Source**  
 - [Our World in Data](https://ourworldindata.org)
