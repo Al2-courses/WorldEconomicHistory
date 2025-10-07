@@ -3,7 +3,7 @@
 **Instructor:** [Altuğ Yalçıntaş](https://ayalcintas.notion.site)  
 **Institution:** Ankara University, Faculty of Political Sciences  
 **Semester:** Fall 2025  
-**Class Time & Location:** Thursdays, 10:00 – 12:30  |  Room 118  
+**Class Time & Location:** Thursdays, 10:00  |  Room 118  
 
 ---
 
@@ -42,7 +42,7 @@ By the end of this course, students should be able to:
   [Open access e-text](https://core-econ.org/the-economy/)
 
 **Supplementary Readings and Watchings**  
-- Provided by the instructor via Notion or in class.
+- Provided by the instructor via Github or in class.
 
 ---
 
@@ -65,7 +65,7 @@ None. Independent engagement with the textbook and lectures is expected.
 
 ## Course Outline
 
-### **Topic 1 – Introduction**
+### **Topic 0 – Introduction**
 - [Study Guide](https://docs.google.com/document/d/1uKDu8ldjpkOscMPY7BNORKfQG627h85G/edit?usp=sharing&ouid=103730637265867141913&rtpof=true&sd=true) | [Structured Summary](https://docs.google.com/document/d/1N_JrLfPqQpi8lPivKZneYzU7V8Hz3Krd/edit?usp=sharing&ouid=103730637265867141913&rtpof=true&sd=true)
 
 ### **Topic 2 – Setting the Scene**
