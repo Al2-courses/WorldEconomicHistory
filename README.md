@@ -7,7 +7,7 @@
 
 ---
 
-## 📘 Course Description
+## Course Description
 
 This course introduces students to the study of **world economic history**, a discipline that examines the evolution of economies, institutions, and societies through both data and narrative. It emphasizes how **past choices** and **chance events** have shaped the present, drawing on **empirical data**, **comparative analysis**, and **interpretive frameworks**.
 
@@ -24,7 +24,7 @@ By engaging with both **quantitative evidence** and **historical interpretation*
 
 ---
 
-## 🎯 Learning Outcomes
+## Learning Outcomes
 
 By the end of this course, students should be able to:
 
@@ -35,7 +35,7 @@ By the end of this course, students should be able to:
 
 ---
 
-## 📚 Required and Supplementary Materials
+## Required and Supplementary Materials
 
 **Required Textbook**  
 - The CORE Econ Team. (2023). *The Economy 2.0: Microeconomics.*  
@@ -46,7 +46,7 @@ By the end of this course, students should be able to:
 
 ---
 
-## 🧾 Course Requirements and Assessment
+## Course Requirements and Assessment
 
 **Assessment Structure**
 
@@ -63,13 +63,13 @@ None. Independent engagement with the textbook and lectures is expected.
 
 ---
 
-## 🗓️ Course Outline
+## Course Outline
 
 ### **Topic 1 – Introduction**
-- Study Guide | Structured Summary
+- [Study Guide](https://docs.google.com/document/d/1uKDu8ldjpkOscMPY7BNORKfQG627h85G/edit?usp=sharing&ouid=103730637265867141913&rtpof=true&sd=true) | [Structured Summary](https://docs.google.com/document/d/1N_JrLfPqQpi8lPivKZneYzU7V8Hz3Krd/edit?usp=sharing&ouid=103730637265867141913&rtpof=true&sd=true)
 
-### **Topic 2 – [To be announced]**
-- Study Guide | Structured Summary
+### **Topic 2 – Setting the Scene**
+- Study Guide | Structured Summary | PPT Files
 
 ### **Topic 3 – [To be announced]**
 - Study Guide | Structured Summary
@@ -82,10 +82,10 @@ None. Independent engagement with the textbook and lectures is expected.
 
 ---
 
-## 🔗 Instructor’s Page
+## Instructor’s Page
 
 For additional resources, updates, and readings, visit the instructor’s Notion page:  
-👉 [https://ayalcintas.notion.site](https://ayalcintas.notion.site)
+[https://ayalcintas.notion.site](https://ayalcintas.notion.site)
 
 ---
 
