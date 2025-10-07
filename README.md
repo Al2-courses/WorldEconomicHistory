@@ -41,6 +41,9 @@ By the end of this course, students should be able to:
 - The CORE Econ Team. (2023). *The Economy 2.0: Microeconomics.*  
   [Open access e-text](https://core-econ.org/the-economy/)
 
+**Main Data Source**  
+- [Our World in Data](https://ourworldindata.org)
+
 **Supplementary Readings and Watchings**  
 - Provided by the instructor via Github or in class.
 
