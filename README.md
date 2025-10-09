@@ -68,19 +68,19 @@ None. Independent engagement with the textbook and lectures is expected.
 ## Course Outline
 
 ### **Topic 0 – Introduction**
-- [Study Guide](https://docs.google.com/document/d/1uKDu8ldjpkOscMPY7BNORKfQG627h85G/edit?usp=sharing&ouid=103730637265867141913&rtpof=true&sd=true) | [Structured Summary](https://docs.google.com/document/d/1N_JrLfPqQpi8lPivKZneYzU7V8Hz3Krd/edit?usp=sharing&ouid=103730637265867141913&rtpof=true&sd=true)
+- [Structured Summary](https://docs.google.com/document/d/1N_JrLfPqQpi8lPivKZneYzU7V8Hz3Krd/edit?usp=sharing&ouid=103730637265867141913&rtpof=true&sd=true)
 
-### **Topic 2 – Setting the Scene**
-- Study Guide | Structured Summary | PPT Files
+### **Topic 1 – Setting the Scene**
+- [Structured Summary](https://docs.google.com/document/d/1GdPAmiYSj3WZ0Ty8Pcs0kaWggxRedIqE/edit?usp=sharing&ouid=103730637265867141913&rtpof=true&sd=true) | [PPT Files]
+
+### **Topic 2 – [To be announced]**
+- [Structured Summary] | [PPT Files]
 
 ### **Topic 3 – [To be announced]**
-- Study Guide | Structured Summary
+- [Structured Summary] | [PPT Files]
 
 ### **Topic 4 – [To be announced]**
-- Study Guide | Structured Summary
-
-### **Topic 5 – [To be announced]**
-- Study Guide | Structured Summary
+- [Structured Summary] | [PPT Files]
 
 ---
 
