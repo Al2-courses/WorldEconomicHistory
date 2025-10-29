@@ -77,7 +77,7 @@ None. Independent engagement with the textbook and lectures is expected.
 - [Structured Summary] | [PPT Files](https://docs.google.com/presentation/d/144Xx2fn45WXfGyyFDNXih2-ANauJXMU0/edit?usp=sharing&ouid=103730637265867141913&rtpof=true&sd=true)
 
 ### **Topic 3 – [Varieties of Capitalism]**
-- [Structured Summary] | [PPT Files Part 1](https://docs.google.com/presentation/d/1ab1UxHvPO2-v-pPvO1ya9OJWkzIG_DmC/edit?usp=sharing&ouid=103730637265867141913&rtpof=true&sd=true) [PPT Files Part 2]
+- [Structured Summary](https://docs.google.com/document/d/1FPFFJxH1BolTpEQ4bjQKwwF4Fs6yX5gj/edit?usp=sharing&ouid=103730637265867141913&rtpof=true&sd=true) | [PPT Files Part 1](https://docs.google.com/presentation/d/1ab1UxHvPO2-v-pPvO1ya9OJWkzIG_DmC/edit?usp=sharing&ouid=103730637265867141913&rtpof=true&sd=true) [PPT Files Part 2]
 
 ### **Topic 4 – [To be announced]**
 - [Structured Summary] | [PPT Files]
