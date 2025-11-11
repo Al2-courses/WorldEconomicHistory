@@ -44,7 +44,7 @@ By the end of this course, students should be able to:
 - [Our World in Data](https://ourworldindata.org)
 
 **Supplementary Readings and Watchings**  
-- Provided by the instructor via Github or in class.
+- [They Worked 14 Hours a Day? - History Found YouTube Channel](https://www.youtube.com/watch?v=-OZ9VImYTig)
 
 ---
 
