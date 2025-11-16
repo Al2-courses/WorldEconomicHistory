@@ -77,7 +77,7 @@ None. Independent engagement with the textbook and lectures is expected.
 - [Structured Summary] | [PPT Files](https://docs.google.com/presentation/d/144Xx2fn45WXfGyyFDNXih2-ANauJXMU0/edit?usp=sharing&ouid=103730637265867141913&rtpof=true&sd=true)
 
 ### **Topic 3 – [Varieties of Capitalism]**
-- [Structured Summary - Part 1](https://docs.google.com/document/d/1FPFFJxH1BolTpEQ4bjQKwwF4Fs6yX5gj/edit?usp=sharing&ouid=103730637265867141913&rtpof=true&sd=true) | [Structured Summary - Part 2](https://docs.google.com/document/d/1SSD4y-ez4iWjxOkUvQ6Wj1Mfi8A9GjkA/edit?usp=sharing&ouid=103730637265867141913&rtpof=true&sd=true) | [Structured Summary - Part 3] | [PPT Files Part 1](https://docs.google.com/presentation/d/1LFbusmBNWxhzIj7ot5B-RQvcUOlgUcSW/edit?usp=sharing&ouid=103730637265867141913&rtpof=true&sd=true)
+- [Structured Summary - Part 1](https://docs.google.com/document/d/1FPFFJxH1BolTpEQ4bjQKwwF4Fs6yX5gj/edit?usp=sharing&ouid=103730637265867141913&rtpof=true&sd=true) | [Structured Summary - Part 2](https://docs.google.com/document/d/1SSD4y-ez4iWjxOkUvQ6Wj1Mfi8A9GjkA/edit?usp=sharing&ouid=103730637265867141913&rtpof=true&sd=true) | [Structured Summary - Part 3](https://docs.google.com/document/d/1pIfkD9k1gpLw869uu-ZbBZzGc_Q16tSS/edit?usp=sharing&ouid=103730637265867141913&rtpof=true&sd=true) | [PPT Files](https://docs.google.com/presentation/d/1LFbusmBNWxhzIj7ot5B-RQvcUOlgUcSW/edit?usp=sharing&ouid=103730637265867141913&rtpof=true&sd=true)
 
 ### **Topic 4 – [To be announced]**
 - [Structured Summary] | [PPT Files]
