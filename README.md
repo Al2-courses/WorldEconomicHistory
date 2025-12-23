@@ -79,8 +79,12 @@ None. Independent engagement with the textbook and lectures is expected.
 ### **Topic 3 – [Varieties of Capitalism]**
 - [Structured Summary - Part 1](https://docs.google.com/document/d/1FPFFJxH1BolTpEQ4bjQKwwF4Fs6yX5gj/edit?usp=sharing&ouid=103730637265867141913&rtpof=true&sd=true) | [Structured Summary - Part 2](https://docs.google.com/document/d/1SSD4y-ez4iWjxOkUvQ6Wj1Mfi8A9GjkA/edit?usp=sharing&ouid=103730637265867141913&rtpof=true&sd=true) | [Structured Summary - Part 3](https://docs.google.com/document/d/1pIfkD9k1gpLw869uu-ZbBZzGc_Q16tSS/edit?usp=sharing&ouid=103730637265867141913&rtpof=true&sd=true) | [PPT Files](https://docs.google.com/presentation/d/1LFbusmBNWxhzIj7ot5B-RQvcUOlgUcSW/edit?usp=sharing&ouid=103730637265867141913&rtpof=true&sd=true)
 
-### **Topic 4 – [To be announced]**
-- [Structured Summary] | [PPT Files]
+### **Topic 4 – [Institutions]**
+- [Structured Summary Part 1](https://docs.google.com/document/d/16N4eZDlgFRoHGmAMbQP-H3_m0X8YuiFh/edit)
+- [Structed Summary Part 2](https://docs.google.com/document/d/16DB0JXiwawYpAWv18uyHRLj8-dp9NDKGqksp_zlTzBQ/edit?tab=t.0)
+- [Structed Summary Part 3](https://docs.google.com/document/d/1FVIH_CmlLEn-T7_GzrTmjPsobkr82x3nKghvBb0Z4Q0/edit?tab=t.0)
+- [Structed Summary Part 4](https://docs.google.com/document/d/1SZuTySe9Bz0xUX-slRUiQ5hHHwv1XCV6pHpM07czD_c/edit?tab=t.0)
+- [PPT Files]
 
 ---
 
