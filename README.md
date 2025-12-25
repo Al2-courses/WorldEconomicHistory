@@ -39,12 +39,14 @@ By the end of this course, students should be able to:
 
 **Required Textbook**  
 - [The CORE Econ Team. (2023). *The Economy 2.0: Microeconomics.*](https://core-econ.org/the-economy/)
+- [Daron Acemoğlu and Simon Johnson. 2023. *Power and Progress: Our Thousand-Year Struggle Over Technology and Prosperity*](https://shapingwork.mit.edu/power-and-progress/)
 
 **Main Data Source**  
 - [Our World in Data](https://ourworldindata.org)
 
 **Supplementary Readings and Watchings**  
 - [They Worked 14 Hours a Day? - History Found YouTube Channel](https://www.youtube.com/watch?v=-OZ9VImYTig)
+- [How Amsterdam Invented Capitalism - Show Me the Work YouTube Channel](https://www.youtube.com/watch?v=7X8KpxnlKWY&t=1552s)
 
 ---
 
