@@ -85,7 +85,7 @@ None. Independent engagement with the textbook and lectures is expected.
 - [Structured Summary Part 1](https://docs.google.com/document/d/16N4eZDlgFRoHGmAMbQP-H3_m0X8YuiFh/edit) | [Structed Summary Part 2](https://docs.google.com/document/d/16DB0JXiwawYpAWv18uyHRLj8-dp9NDKGqksp_zlTzBQ/edit?tab=t.0) | [Structed Summary Part 3](https://docs.google.com/document/d/1FVIH_CmlLEn-T7_GzrTmjPsobkr82x3nKghvBb0Z4Q0/edit?tab=t.0) | [Structed Summary Part 4](https://docs.google.com/document/d/1SZuTySe9Bz0xUX-slRUiQ5hHHwv1XCV6pHpM07czD_c/edit?tab=t.0) | [PPT Files]
 
 ### **Topic 5 – Reformation and Enlightenment**
-- [Structured Summary](not available) | [PPT Files](https://docs.google.com/presentation/d/10tGzvGtIb75gVvvg8_MeeAPm1j9j2EvZ/edit?usp=sharing&ouid=103730637265867141913&rtpof=true&sd=true)
+- [Structured Summary](https://docs.google.com/document/d/1gTLoOfHsjGfbreI3dDY3iYsfKFJdOIRO/edit?usp=sharing&ouid=107663859571511646522&rtpof=true&sd=true) | [PPT Files](https://docs.google.com/presentation/d/10tGzvGtIb75gVvvg8_MeeAPm1j9j2EvZ/edit?usp=sharing&ouid=103730637265867141913&rtpof=true&sd=true)
 
 
 ---
